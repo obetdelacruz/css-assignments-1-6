@@ -1,0 +1,19 @@
+.button1 {
+  background-color: black;
+  color: white;
+  margin-left: 8px;
+}
+
+.button2 {
+  background-color: yellow;
+  color: black;
+}
+
+.button1,
+.button2 {
+  border: solid grey;
+  font-size: 50px;
+  font-family: "Times New Roman";
+  margin-top: 5px;
+  margin-right: 5px;
+}
