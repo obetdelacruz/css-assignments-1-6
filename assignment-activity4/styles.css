@@ -1,9 +1,6 @@
-div.lobertphoto {
-  width: 10%;
-  height: auto;
-}
-div.facebookprofile{
-  width: 10%;
-  height: 50%;
-}
+.myimage {
+  width: 10px;
+  height: 10px;
+  border: 2px solid;
+  background-size: 150px;
 }
