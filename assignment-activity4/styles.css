@@ -1,4 +1,15 @@
-.image2 {
+.als-logo {
   width: 200px;
+  height: auto;
+}
+
+.lobert-photo {
+  width: 125px;
+  height: 200px;
+}
+
+.als-logo2,
+.lobert-photo2 {
+  width: 250px;
   height: auto;
 }
