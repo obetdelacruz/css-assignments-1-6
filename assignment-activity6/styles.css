@@ -1,0 +1,35 @@
+* {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#boldtext {
+  font-weight: bolder;
+}
+
+#small-paragraph,
+#smaller-child-div {
+  font-size: smaller;
+  font-weight: bolder;
+}
+
+#confirm {
+  background-color: green;
+  font-weight: bolder;
+  color: white;
+}
+
+#cancel {
+  background-color: #fff;
+
+  font-weight: lighter;
+}
+
+#thintext,
+#thin-text-child,
+#confirm,
+#cancel,
+#boldtext {
+  font-size: xx-large;
+}
+
+/*  */

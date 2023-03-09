@@ -1,6 +1,4 @@
-.myimage {
-  width: 10px;
-  height: 10px;
-  border: 2px solid;
-  background-size: 150px;
+.image2 {
+  width: 200px;
+  height: auto;
 }
